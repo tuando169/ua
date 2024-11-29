@@ -1,0 +1,40 @@
+{
+  "rowData": [
+    {
+      "advertiserName": "Almaza Bay",
+      "extServiceName": "Google Ads",
+      "channelName": "Display",
+      "creativeWidth": 300,
+      "creativeHeight": 250,
+      "searchTags": "#Embrace Your Individuality with X",
+      "time": 20220711,
+      "impressions": 1953,
+      "clicks": 78,
+      "maxBidCpm": 1
+    },
+    {
+      "advertiserName": "Almaza Bay",
+      "extServiceName": "Google Ads",
+      "channelName": "Display",
+      "creativeWidth": 300,
+      "creativeHeight": 250,
+      "searchTags": "#Embrace Your Individuality with X",
+      "time": 20220712,
+      "impressions": 5140,
+      "clicks": 288,
+      "maxBidCpm": 1
+    },
+    {
+      "advertiserName": "Oman",
+      "extServiceName": "Facebook Ads",
+      "channelName": "Mobile",
+      "creativeWidth": 300,
+      "creativeHeight": 250,
+      "searchTags": "#Be Bold. Be X",
+      "time": 20220928,
+      "impressions": 594,
+      "clicks": 13,
+      "maxBidCpm": 1
+    }
+  ]
+}
